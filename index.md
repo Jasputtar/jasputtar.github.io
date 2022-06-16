@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is a personal blog on things I spend my time thinking about. Any opinions expressed are entirely mine and not of any organization i'm affiliated.
